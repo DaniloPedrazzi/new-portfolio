@@ -1,8 +1,9 @@
+/* eslint-disable jsx-a11y/img-redundant-alt */
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import HeaderSocials from './headerSocials'
-import profile from '../../assets/template perfil.png'
+import me from '../../assets/me.png'
 
 function header() {
   return (
@@ -15,7 +16,7 @@ function header() {
             <HeaderSocials />
 
             <div className="me">
-                <img src={profile} alt="Profile picture" />
+                <img src={me} alt="Picture of me" />
             </div>
 
             <a href="#contact" className='scroll_down'>scroll down</a>
