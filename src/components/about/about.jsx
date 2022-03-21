@@ -5,7 +5,7 @@ import meabout from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
-import setActiveNav from '../Nav/nav'
+import setActiveNav from '../Nav/Nav'
 
 function about() {
   return (
