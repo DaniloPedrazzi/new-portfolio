@@ -5,7 +5,6 @@ import meabout from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
-import setActiveNav from '../Nav/Nav'
 
 function about() {
   return (
@@ -40,7 +39,7 @@ function about() {
 
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem delectus consequuntur consequatur iste odio, eius, eligendi beatae fugiat vitae adipisci in laborum voluptatum dolor eos quod maxime. Rerum, sunt harum.</p> 
 
-          <a href="#contact" className='btn btn-primary' onClick={() => setActiveNav('#contato')}>Contato</a>
+          <a href="#contact" className='btn btn-primary'>Contato</a>
         </div>
       </div>
     </section>
