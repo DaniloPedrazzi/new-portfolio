@@ -1,13 +1,13 @@
 import React from 'react';
 
 import Header from './components/header/header'
-import Nav from './components/nav/Nav'
+import Nav from './components/Nav/nav'
 import About from './components/about/about'
 import Experience from './components/experience/experience'
 import Services from './components/services/services'
 import Portfolio from './components/portfolio/portfolio.jsx'
 import Testimonials from './components/testimonials/testimonials'
-import Contact from './components/contact/Contact'
+import Contact from './components/Contact/Contact'
 import Footer from './components/footer/footer'
 
 function App() {
