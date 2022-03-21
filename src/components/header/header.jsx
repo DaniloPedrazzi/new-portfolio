@@ -7,7 +7,7 @@ import me from '../../assets/me.png'
 
 function header() {
   return (
-    <header>
+    <header id="home">
         <div className="container header_container">
             <h5>Olá, sou</h5>
             <h1>Danilo</h1>

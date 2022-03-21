@@ -7,10 +7,10 @@ import {FaDribbbleSquare} from 'react-icons/fa'
 function footer() {
   return (
     <footer>
-      <a href="#" className="footer_logo">Danilo</a>
+      <a href="#home" className="footer_logo">Danilo</a>
 
       <ul className='permalinks'>
-        <li><a href="#">Home</a></li>
+        <li><a href="#home">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
@@ -20,9 +20,9 @@ function footer() {
       </ul>
 
       <div className="footer_socials">
-        <a href="https://linkedin.com" target="_blank"><BsLinkedin /></a>
-        <a href="https://github.com" target="_blank"><BsGithub /></a>
-        <a href="https://dribbble.com" target="_blank"><FaDribbbleSquare /></a>
+        <a href="https://linkedin.com" target="_blank" rel="noreferrer"><BsLinkedin /></a>
+        <a href="https://github.com" target="_blank" rel="noreferrer"><BsGithub /></a>
+        <a href="https://dribbble.com" target="_blank" rel="noreferrer"><FaDribbbleSquare /></a>
       </div>
 
       <div className="footer_copyright">
