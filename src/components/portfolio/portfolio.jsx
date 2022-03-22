@@ -3,10 +3,6 @@ import React from 'react'
 import './portfolio.css'
 import AdviceGenerator from '../../assets/AdviceGenerator.png'
 import ToDo from '../../assets/ToDo.png'
-import x2048 from '../../assets/2048.png'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
   {
