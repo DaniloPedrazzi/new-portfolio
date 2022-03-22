@@ -15,24 +15,19 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    avatar: client1,
-    name: 'Robert C.',
-    review: 'Muito bom, trabalho excelente e entregou na data'
+    avatar: client3,
+    name: 'Julia J.',
+    review: 'Excelente! Amei o site.'
   },
   {
     avatar: client2,
-    name: 'Robert C.',
-    review: 'Muito bom, trabalho excelente e entregou na data'
+    name: 'Divaldo A.',
+    review: 'Ótimo profissional, muito carismático.'
   },
   {
-    avatar: client3,
+    avatar: client1,
     name: 'Robert C.',
-    review: 'Muito bom, trabalho excelente e entregou na data'
-  },
-  {
-    avatar: client4,
-    name: 'Robert C.',
-    review: 'Muito bom, trabalho excelente e entregou na data'
+    review: 'Muito bom, trabalho excelente e entregou na data.'
   }
 ]
 

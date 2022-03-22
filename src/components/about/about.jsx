@@ -23,21 +23,21 @@ function about() {
             <article className='about_card'>
               <FaAward className='about_icon' />
               <h5>Experiência</h5>
-              <small>3+ Anos</small>
+              <small>2 Anos</small>
             </article>
             <article className='about_card'>
               <FiUsers className='about_icon' />
               <h5>Clientes</h5>
-              <small>20+ Clientes pelo Mundo</small> 
+              <small>15+ Clientes pelo Mundo</small> 
             </article>
             <article className='about_card'>
               <VscFolderLibrary className='about_icon' />
               <h5>Projetos</h5>
-              <small>25+ Projetos Completos</small>
+              <small>20+ Projetos Completos</small>
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem delectus consequuntur consequatur iste odio, eius, eligendi beatae fugiat vitae adipisci in laborum voluptatum dolor eos quod maxime. Rerum, sunt harum.</p> 
+          <p>Além de muito amor por JavaScript, tenho 17 anos e estou no 3° ano de Desenvolvimento de Sistemas na Etec, gosto mais de frontend por mais que conheça algumas tecnologias backend, role para baixo e conheça mais sobre meu trabalho!</p> 
 
           <a href="#contact" className='btn btn-primary'>Contato</a>
         </div>

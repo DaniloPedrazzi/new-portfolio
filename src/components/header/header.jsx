@@ -19,7 +19,7 @@ function header() {
                 <img src={me} alt="Picture of me" />
             </div>
 
-            <a href="#contact" className='scroll_down'>scroll down</a>
+            <a href="#contact" className='scroll_down'>Fim da página</a>
         </div>
     </header>
   )

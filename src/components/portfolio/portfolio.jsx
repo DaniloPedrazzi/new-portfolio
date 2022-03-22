@@ -2,8 +2,8 @@
 import React from 'react'
 import './portfolio.css'
 import AdviceGenerator from '../../assets/AdviceGenerator.png'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
+import ToDo from '../../assets/ToDo.png'
+import x2048 from '../../assets/2048.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
@@ -20,49 +20,22 @@ const data = [
   },
   {
     id:2,
-    image: IMG2,
-    title: "Advice Generator",
-    alt: "Advice Generator demo",
-    desc: "Um pequeno projeto que fiz em Javascript para aprender a lidar com APIs.",
-    github: "https://github.com/xCUELHO/Advice-generator",
-    demo: "https://advicegenerator.vercel.app"
+    image: ToDo,
+    title: "To-Do List",
+    alt: "To-do list demo",
+    desc: "Qual melhor opção para aprender uma linguagem do que um clássico to-do? \n Feito em React <3",
+    github: "https://github.com/xCUELHO/to-do_react",
+    demo: "https://to-do-react-silk.vercel.app"
   },
   {
     id:3,
-    image: IMG3,
-    title: "Advice Generator",
-    alt: "Advice Generator demo",
-    desc: "Um pequeno projeto que fiz em Javascript para aprender a lidar com APIs.",
-    github: "https://github.com/xCUELHO/Advice-generator",
-    demo: "https://advicegenerator.vercel.app"
-  },
-  {
-    id:4,
-    image: IMG4,
-    title: "Advice Generator",
-    alt: "Advice Generator demo",
-    desc: "Um pequeno projeto que fiz em Javascript para aprender a lidar com APIs.",
-    github: "https://github.com/xCUELHO/Advice-generator",
-    demo: "https://advicegenerator.vercel.app"
-  },
-  {
-    id:5,
-    image: IMG5,
-    title: "Advice Generator",
-    alt: "Advice Generator demo",
-    desc: "Um pequeno projeto que fiz em Javascript para aprender a lidar com APIs.",
-    github: "https://github.com/xCUELHO/Advice-generator",
-    demo: "https://advicegenerator.vercel.app"
-  },
-  {
-    id:6,
-    image: IMG6,
-    title: "Advice Generator",
-    alt: "Advice Generator demo",
-    desc: "Um pequeno projeto que fiz em Javascript para aprender a lidar com APIs.",
-    github: "https://github.com/xCUELHO/Advice-generator",
-    demo: "https://advicegenerator.vercel.app"
-  },
+    image: "",
+    title: "2048",
+    alt: "No image",
+    desc: "Parte da saga de jogos simples em Javascript",
+    github: "https://github.com/xCUELHO/2048",
+    demo: ""
+  }
 ]
 
 function portfolio() {

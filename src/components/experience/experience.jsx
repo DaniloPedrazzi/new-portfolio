@@ -78,7 +78,7 @@ function experience() {
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Intermediário</small>
+                <small className="text-light">Iniciante</small>
               </div>
             </article>
             <article className="experience_details">
