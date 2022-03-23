@@ -3,6 +3,7 @@ import React from 'react'
 import './portfolio.css'
 import AdviceGenerator from '../../assets/AdviceGenerator.png'
 import ToDo from '../../assets/ToDo.png'
+import x2048 from '../../assets/2048.png'
 
 const data = [
   {
@@ -25,12 +26,12 @@ const data = [
   },
   {
     id:3,
-    image: "",
+    image: x2048,
     title: "2048",
-    alt: "No image",
+    alt: "2048 game demo",
     desc: "Parte da saga de jogos simples em Javascript",
     github: "https://github.com/xCUELHO/2048",
-    demo: ""
+    demo: "https://2048-xcuelho.vercel.app"
   }
 ]
 
