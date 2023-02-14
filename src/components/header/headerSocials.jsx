@@ -7,7 +7,7 @@ function headerSocials() {
   return (
     <div className="header_socials">
         <a href="https://www.linkedin.com/in/danilo-justino-pedrazzi/" target="_blank" rel="noreferrer"><BsLinkedin /></a>
-        <a href="https://github.com/xcuelho" target="_blank" rel="noreferrer"><BsGithub /></a>
+        <a href="https://github.com/DaniloPedrazzi" target="_blank" rel="noreferrer"><BsGithub /></a>
     </div>
   )
 }
